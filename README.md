@@ -1,9 +1,11 @@
 ![PepeDance](https://cdn.discordapp.com/emojis/444226569016311829.gif?v=1)
 
 # **Hello there!**
-I am Ma Yuk Ho, Mark. 
-Currently I am studying in The Chinese University of Hong Kong.
-Year 2 Computer Science major student. **Aye**!!!
+	I am Ma Yuk Ho, Mark. 
+	Currently I am studying in The Chinese University of Hong Kong.
+	Year 2 Computer Science major student. 
+
+**Aye**!!!
 	
 # Major related course(s) taken this semster
 |Course ID | Course Name |
@@ -13,9 +15,9 @@ Year 2 Computer Science major student. **Aye**!!!
 |ENGG2430 |Probability and Statistics for Engineers|
 	
 # Progamming Language
-1. C
-2. C++
-3. Java
+	1. C
+	2. C++
+	3. Java
 
 # Task(s) to do
 - [ ] Work
