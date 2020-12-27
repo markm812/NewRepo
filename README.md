@@ -1,7 +1,7 @@
 ![PepeDance](https://cdn.discordapp.com/emojis/444226569016311829.gif?v=1)
 
 # **Hello there!**
-	I am Ma Yuk Ho, Mark. 
+	I am Mark. 
 	Currently I am studying in The Chinese University of Hong Kong.
 	Year 3 Computer Science major student. 
 
